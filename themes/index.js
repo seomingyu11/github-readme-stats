@@ -178,6 +178,12 @@ const themes = {
     icon_color: "19f9d8",
     text_color: "ffffff",
     bg_color: "002b36",
+  },
+  "personal":{
+    title_color: "2f80ed",
+    icon_color: "9838ff",
+    text_color: "363636".
+    bg_color: "ffffff",
   }
 };
 
