@@ -250,7 +250,13 @@ const themes = {
     icon_color: "89ddff",
     text_color: "27e8a7",
     bg_color: "242938"
-  }
+  },
+  personal: {
+    title_color: "576ed5",
+    icon_color: "9f38ff",
+    text_color: "363636",
+    bg_color: "ffffff",
+  },
 };
 
 module.exports = themes;
